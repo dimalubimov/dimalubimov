@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6zXo5MAkNJwKQ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/5oYgxQKHhEjEk/giphy-downsized-large.gif" width="100"/>
 
 хапал?
 
